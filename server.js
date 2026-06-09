@@ -3,7 +3,7 @@ const https = require('https');
 const WebSocket = require('ws');
 
 const PORT = process.env.PORT || 3001;
-const GMGN_KEY = 'gmgn_d6233c3e9d4e67c3238ba1ea1984be36';
+const GMGN_KEY = 'gmgn_4e8e56886662c19d00376f0bdf022764';
 
 const ALLOWED_HOSTS = [
   'gmgn.ai',
